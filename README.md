@@ -74,7 +74,7 @@ Tenho conhecimento em HTML, CSS, JavaScript e frameworks.
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=lailtd&&style=flat-square)  
   
 
 <br/>  
