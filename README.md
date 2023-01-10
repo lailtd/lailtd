@@ -11,7 +11,7 @@
 
 
 
-### Glad to see you here!  
+### Seja muito bem vindo (a)!  
 Sou desenvolvedora front end jr, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Descomplica.
 Tenho conhecimento em HTML, CSS, JavaScript e frameworks.  
   
