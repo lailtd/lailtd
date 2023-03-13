@@ -12,8 +12,6 @@
 
 
 ### Seja muito bem vindo (a)!  
-Sou desenvolvedora front end jr, atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Descomplica.
-Tenho conhecimento em HTML, CSS, JavaScript e frameworks.  
   
 
 <br/>  
@@ -22,7 +20,7 @@ Tenho conhecimento em HTML, CSS, JavaScript e frameworks.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 Estudando desenvolvimento full stack.  
+- 🌱 Estudando desenvolvimento java.
   
 
 - ⚡ Contate-me.  
